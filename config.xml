@@ -7,7 +7,7 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>WikLightViewer</name>
+  <name>WikiLightViewer</name>
 
   <description>
       A light viewer for Wikipedia with a search and a random topic button
@@ -16,5 +16,9 @@
   <author href="https://build.phonegap.com" email="davidmiolard@laposte.net">
       GwadaKing
   </author>
+  
+  <platform name="android">
+  <icon src="icon.png" width="180" height="180" />
+</platform>
 
 </widget>
